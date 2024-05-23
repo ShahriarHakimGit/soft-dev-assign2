@@ -1,0 +1,4 @@
+Name: hakim, Membership Type: Gold, Discount: 30%
+Name: arnob, Membership Type: Silver, Discount: 20%
+Name: shahriar, Membership Type: Gold, Discount: 30%
+Name: dfsd, Membership Type: None, Discount: 0%
